@@ -6,3 +6,7 @@ This website is made to make shortcuts for the different notes for each lesson i
 
 # Table of Contents
 
+## Code 102
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
+## Code 201
